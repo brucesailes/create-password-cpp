@@ -20,6 +20,14 @@ To get started with the "Create-Password-c++" project, follow these steps:
    git clone https://github.com/BruceSailes/Create-Password-c++.git
 2. Compile the C++ code: 
 
-  ```bash
-  g++ password.cpp -o password
+   ```bash
+   g++ password.cpp -o password
 
+3. Run the program:
+
+   ```bash
+   ./password
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
